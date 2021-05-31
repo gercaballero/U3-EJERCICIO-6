@@ -1,0 +1,48 @@
+{
+    "__class__": "Lista",
+    "vehiculos": [
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "modelo": "duster",
+                "puertas": 5,
+                "color": "marron",
+                "precio": 100000,
+                "version": "full"
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "modelo": "SIENA",
+                "puertas": 3,
+                "color": "blanco",
+                "precio": 150000,
+                "version": "base"
+            }
+        },
+        {
+            "__class__": "VehiculoUsado",
+            "__atributos__": {
+                "modelo": "Corsa",
+                "patente": "fcb632",
+                "puertas": 5,
+                "color": "beige",
+                "precio": 80000,
+                "marca": "chevrolet",
+                "a\u00f1o": 2006,
+                "km": 300000
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "modelo": "ECO SPORT",
+                "puertas": 5,
+                "color": "CELESTE",
+                "precio": 120000,
+                "version": "FULL"
+            }
+        }
+    ]
+}
